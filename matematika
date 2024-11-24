@@ -1,0 +1,8 @@
+public class Matematika {
+    float hasil, a, b;
+    
+    public void Matematika (float a, float b) {
+        this.a = a;
+        this.b = b;
+    }
+}
