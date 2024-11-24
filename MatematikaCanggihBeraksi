@@ -1,0 +1,9 @@
+public class MatematikaCanggihBeraksi {
+    public static void main(String[] args) {
+        MatematikaCanggih mathop = new MatematikaCanggih();
+        mathop.Matematika(5, 2);
+        mathop.pertambahan();
+        mathop.perkalian();
+        mathop.sisaBagi();
+    }
+}
